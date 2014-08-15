@@ -2,6 +2,7 @@ coders
 ======
 
 guides for various coding inits
+
 - [Trello](http://www.trello.com)
 - [Dropbox](www.dropbox.com)
 - [BitBucket](https://bitbucket.org/)
@@ -12,46 +13,56 @@ guides for various coding inits
 - [Sublime](http://www.sublimetext.com/)
 
 
-- Xcode
+###  Xcode
   - Preferences -> Downloads
   - Commandline utilitites
   - Install 1 iOS Simulator 6.1
 
-- mysql, drush, nmap, elasticsearch, geoip, siege, sqlite, ssh-copy-id, watch, lynx, node, redis, mongodb
 
+### Mac Workstation
 
-== Mac Workstation
 - brew
-  - set paths for PATH, NODE_PATH  in ".bash_profile"
--ssh 
-https://confluence.atlassian.com/display/BITBUCKET/Set+up+SSH+for+Git
+- set paths for PATH, NODE_PATH  in ".bash_profile"
+- reload or quit and restart Terminal
+```
+$source ~/.rvm/scripts/rvm
+```
 
-== Dev: Geo
- - GeoIP Data http://dev.maxmind.com/geoip/legacy/install/city/
+### Git
+ - [ssh keys](https://confluence.atlassian.com/display/BITBUCKET/Set+up+SSH+for+Git)
 
 
-== Front End
+
+###  Brews
+mysql, drush, nmap, elasticsearch, geoip, siege, sqlite, ssh-copy-id, watch, lynx, node, redis, mongodb
+
+### Dev: Geo
+ - [GeoIP Data](http://dev.maxmind.com/geoip/legacy/install/city/)
+
+
+### Front End
 - gem install sass
 - brew install node
--gem install css_parser
+- gem install css_parser
 - gem install compass
 
-== PHP Development
+### PHP Development
 
 
+### Rails
 
-== Rails
--rvm()
--rvm requirements
--rvm install 2.1.1
--rvm use 2.1.1 
--rvm rubygems current
--gem install rails
+```
+rvm
+rvm requirements
+rvm install 2.1.1
+rvm use 2.1.1 
+rvm rubygems current
+gem install rails
+```
 
 
+### AngularJS
 
-== AngularJS
--$ source ~/.rvm/scripts/rvm
 
 
 
