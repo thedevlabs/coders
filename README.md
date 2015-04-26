@@ -1,16 +1,16 @@
-coders
+Coders
 ======
 
 guides for various coding inits
 
-- [Trello](http://www.trello.com)
-- [Dropbox](www.dropbox.com)
-- [BitBucket](https://bitbucket.org/)
-- [MAMP](http://www.mamp.info/en/)
+- [Trello](http://www.trello.com) [free web-based project management application]
+- [Dropbox](www.dropbox.com) [ file hosting service ]
+- [BitBucket](https://bitbucket.org/) [ web-based hosting service for projects, for GIT private projects]
+- [MAMP](http://www.mamp.info/en/) [for make a localhost]
 - [Homebrew](http://brew.sh/) Note: Homebrew will ask you to install Xcode. Go ahead and do this when prompted.
-- [Node](http://nodejs.org/)
-- [NPM](https://www.npmjs.org/)
-- [Sublime](http://www.sublimetext.com/)
+- [Nodejs](http://nodejs.org/) [javascript server-side]
+- [NPM](https://www.npmjs.org/) [package manager for JavaScript]
+- [Sublime Text](http://www.sublimetext.com/) [Code Editor]
 
 
 ###  Xcode
