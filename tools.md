@@ -46,7 +46,7 @@ Java (no muy grande pero usado)
 
 
 —> Mobile
- - https://github.com/driftyco/ionic (AngularJS + Phonegap, Diego de Fireless lo usa)
+ - https://github.com/driftyco/ionic (AngularJS + Phonegap)
 
 
 —> Database
