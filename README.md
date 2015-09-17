@@ -24,9 +24,17 @@ guides for various coding inits
 - brew
 - set paths for PATH, NODE_PATH  in ".bash_profile"
 - reload or quit and restart Terminal
+- alias the correct active php and mysql
+
 ```
-$source ~/.rvm/scripts/rvm
+export NODE_PATH="/usr/local/lib/node_modules"
+export PATH="/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/share/npm/bin:$PATH"
+
+alias phpmamp="/Applications/MAMP/bin/php/php5.4.10/bin/php"
+alias mysqlmamp='/Applications/MAMP/Library/bin/mysql'
 ```
+
+
 
 ### Git
  - [ssh keys](https://confluence.atlassian.com/display/BITBUCKET/Set+up+SSH+for+Git)
@@ -60,10 +68,11 @@ rvm rubygems current
 gem install rails
 ```
 
+Rails rvm reload
+
+```
+$source ~/.rvm/scripts/rvm
+```
 
 ### AngularJS
 
-
-
-
->>>>>>> 0c45bdf77344618b7c34280050528b31b176a6f5
