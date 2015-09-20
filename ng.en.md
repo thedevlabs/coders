@@ -9,4 +9,3 @@ Angular Dev
 * [ng templates]()
 * [write/edit directives]()
 
-

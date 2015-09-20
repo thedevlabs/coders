@@ -1,7 +1,6 @@
 PHP Dev Fundamentals
 =========
 
-
 ## Tools
 
 * [Composer](https://composer.com/)

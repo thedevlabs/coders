@@ -1,7 +1,8 @@
 Coders
 ======
 
-#Guides for stack setups 
+# Guides for start-up engineering stack setups
+
 
 ## Universal dev tools
 

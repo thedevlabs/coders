@@ -1,22 +1,22 @@
-Webdev Fundamentals
+Sprints
 =========
 
-## html5
-* [html](https://laravel.com/)
-* [haml](https://laravel.com/)
-* [mustache](https://laravel.com/)
+Sprints should be followed in order as each one builds on what you learned how to hack in the previous one. Once you have the basics in place, you will start to speicialize into either Front-End, Back-End, or Devops.
 
 
-## css
-* [Intro to CSS](https://codeacademy.com/)
-* [sass](https://codeacademy.com/)
-
-## js
-* [Intro to JS](https://codeacademy.com/)
-* [JQuery](https://codeacademy.com/)
-* [Vue](https://codeacademy.com/) [reactive js]
+## Sprint 1
+* first commit (bitbucket or github or gitlab)
+* write, from scratch, a simple webpage using html/css
 
 
-## Should know
+## Sprint 2
+* branch the project
+* rewrite it using Bootstrap, use a JS lib
+
+
+## Sprint 3
+* New repo,
+
+
+## Sprint 4
 * [Gulp](https://gulp.com/)
-
