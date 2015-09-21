@@ -1,86 +1,99 @@
-Languages and Stacks for startup dev
+Stacks for startup engineering
 =========
 
-—> Backend
+##Backend
 
-Javascript
- - https://github.com/joyent/node  (bueno para desarrollo, pero muchos se estan moviendo a Go)
- - https://github.com/meteor/meteor  (como rails para JS)
- - https://github.com/strongloop/express (para nodejs)
- - http://mean.io/  
+####Javascript
+ * https://github.com/joyent/node  (bueno para desarrollo, pero muchos se estan moviendo a Go)
+ * https://github.com/meteor/meteor  (como rails para JS)
+ * https://github.com/strongloop/express (para nodejs)
+ * http://mean.io/  
 
-PHP
- - https://github.com/laravel/laravel
+####PHP
+ * https://github.com/laravel/laravel
 
-Ruby
- - https://github.com/rails/rails
+####Ruby
+* https://github.com/rails/rails
 
-Python 
- - https://github.com/django/django
- - https://github.com/mitsuhiko/flask
-
-
-—> Compilados
-
-GoLang (muy rápido porque solo sale un binario, esta reemplazando REST APIs hechos en python/nodejs/rails )
-   - https://github.com/go-martini/martini
-   - https://github.com/gin-gonic/gin
-   - https://github.com/willnorris/imageproxy (ejemplo de un micro servicio en Go que yo uso mucho)
-
-Scala
- - http://twitter.github.io/finatra/
-
-Java (no muy grande pero usado)
- - https://github.com/perwendel/spark
+####Python 
+* https://github.com/django/django
+* https://github.com/mitsuhiko/flask
 
 
-—> Web / Load Balancer
-- http://nginx.org
-- https://www.varnish-cache.org
-- http://www.haproxy.org
+**== Compilados ==**
+
+####GoLang 
+Muy rápido porque solo sale un binario, esta reemplazando REST APIs hechos en python/nodejs/rails
+
+* https://github.com/go-martini/martini
+* https://github.com/gin-gonic/gin
+* https://github.com/willnorris/imageproxy (ejemplo de un micro servicio en Go que yo uso mucho)
+
+####Scala
+* http://twitter.github.io/finatra/
+
+####Java
+(no muy grande pero usado)
+
+* https://github.com/perwendel/spark
 
 
-—> JS Front End Stacks
- - https://github.com/angular/angular.js (super Popular)
- - https://github.com/facebook/react (nuevo, según mejor)
- - https://github.com/jashkenas/backbone (el original, mucho trabajo en mantenimiento )
+##JS Front End Stacks
+* https://github.com/angular/angular.js (super Popular)
+* https://github.com/facebook/react (nuevo, según mejor)
+* https://github.com/jashkenas/backbone (el original, mucho trabajo en mantenimiento )
 
 
-—> Mobile
- - https://github.com/driftyco/ionic (AngularJS + Phonegap)
+##Mobile
+* https://github.com/driftyco/ionic (AngularJS + Phonegap)
 
 
-—> Database
-SQL
- - mysql
- - postgresql
+##Databases
 
-NoSQL
-  - https://github.com/mongodb/mongo 
-  - https://github.com/antirez/redis
+####SQL
+* mysql
+* postgresql
 
-Search
-  - https://github.com/elastic/elasticsearch
+####NoSQL
+* https://github.com/mongodb/mongo 
+* https://github.com/antirez/redis
 
-Big Data
- - https://github.com/apache/hadoop
- - https://github.com/apache/cassandra 
+####Time Series DB
+* https://github.com/influxdb/influxdb 
 
-—>  Messages / Queues
- - https://github.com/kr/beanstalkd
- - https://github.com/rabbitmq/rabbitmq-server
- - https://github.com/apache/kafka
+####Search
+* https://github.com/elastic/elasticsearch
+
+####Cloud
+* https://firebase.com/ 
+* https://parse.com/
+
+####Big Data
+* https://aws.amazon.com/redshift
+* https://github.com/apache/hadoop
+* https://github.com/apache/cassandra 
+
+####Messages / Queues
+* https://github.com/kr/beanstalkd
+* https://github.com/rabbitmq/rabbitmq-server
+* https://github.com/apache/kafka
 
 
-—> Developer Hosting
- - http://aws.amazon.com
- - https://www.rackspace.com/cloud
- - https://www.digitalocean.com
- - https://www.heroku.com
- - https://www.linode.com
+###Web / Load Balancer
+* http://nginx.org
+* https://www.varnish-cache.org
+* http://www.haproxy.org
 
 
-###Stacks de Startups###
+###Developer Hosting
+* http://aws.amazon.com
+* https://www.rackspace.com/cloud
+* https://www.digitalocean.com
+* https://www.heroku.com
+* https://www.linode.com
+
+
+####Stacks de Startups####
 http://stackshare.io/trending/tools
 
 
