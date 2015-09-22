@@ -1,8 +1,5 @@
-StartUp engineering 
+Guide for startup engineering
 ======
-
-# Guides for start-up engineering stacks
-
 
 ### Platforms
 * [Macs](https://github.com/thedevlabs/coders/tree/master/en/tools.mac.md)
@@ -32,11 +29,15 @@ StartUp engineering
 * [Python](https://github.com/thedevlabs/coders/tree/master/en/python.md)
 
 
-#### Getting Started
+## Getting Started
 * Set up your platform
 * Pick an Editor
 * Install/join all Universal tools
 * Start with [Web UI](https://github.com/thedevlabs/coders/tree/master/en/web.md) everyone needs to understand Webdev basics
+
+
+### Sprints
+* [Sprint 1](https://github.com/thedevlabs/coders/blob/master/en/sprints.md)
 
 
 ##### How to ask for peer review
