@@ -1,4 +1,4 @@
-StartUp engineering 
+Startup engineering 
 ======
 
 # Guides for startup engineering stacks
