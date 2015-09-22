@@ -1,7 +1,7 @@
 StartUp engineering 
 ======
 
-# Guides for start-up engineering stacks
+# Guides for startup engineering stacks
 
 
 ### Platforms
