@@ -39,18 +39,18 @@ StartUp engineering
 * Start with [Web UI](https://github.com/thedevlabs/coders/tree/master/en/web.md) everyone needs to understand Webdev basics
 
 
-#### How to ask peer review
+##### How to ask for peer review
 * Create your repos inside of the devlabs team on bitbucket or github so everyone has read access
 * Request someone who knows your stack to review your commits and provide feedback
 
 
-#### How to ask for support
+##### How to ask for support
 * Create an branch in your repo
   * be as detailed with your issue as possible (steps taken, approaches tried)
 * Create an Issue and request someone who knows your stack
 
 
-#### How to provide support
+##### How to provide support
 * Comment on the branch
 * Can also create a branch and scaffold the code a bit
 * Provide Links(URLs) toward online tutorials, documentation that is more thorough for deeper investigation
