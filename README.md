@@ -6,7 +6,7 @@ Guide for startup engineering
 * [Windows](https://github.com/thedevlabs/coders/tree/master/en/tools.win.md)
 
 
-### Editor 
+### Editors
 * [Sublime Text](http://www.sublimetext.com)
 * [Atom](https://atom.io)
 
@@ -33,7 +33,7 @@ Guide for startup engineering
 * Set up your platform
 * Pick an Editor
 * Install/join all Universal tools
-* Start with [Web UI](https://github.com/thedevlabs/coders/tree/master/en/web.md) everyone needs to understand Webdev basics
+* Start with [Web UI](https://github.com/thedevlabs/coders/tree/master/en/web.md), everyone needs to understand Webdev basics
 
 
 ### Sprints
