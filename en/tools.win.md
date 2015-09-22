@@ -5,9 +5,9 @@ Tools for modern web dev on a Windows (*consider a mac or ubuntu workstation, ei
 
 * [XAMMP](https://www.apachefriends.org/es/index.html) [easy mysql dev]
 * [Scoop](https://github.com/lukesampson/scoop/wiki) [Homebrew para Windows]
-  * [Howto](https://outcoldman.com/en/archive/2014/07/20/scoop/)
-* [git shell](http://www.mamp.info/en/) [for git]
-* [ssh client](http://www.mamp.info/en/) [for ssh]
+  * [Howto](https://outcoldman.com/en/archive/2014/07/20/scoop/) [package manager + ssh keys]
+* [Git for Windows](https://git-for-windows.github.io) [for git]
+* [ssh client ???]() [for ssh]
 
 
 ### Git
