@@ -54,5 +54,5 @@ Guide for startup engineering
 ##### How to provide support
 * Comment on the branch
 * Can also create a branch and scaffold the code a bit
-* Provide Links(URLs) toward online tutorials, documentation that is more thorough for deeper investigation
+* Provide Links to online tutorials, documentation, that is more thorough for deeper investigation
 
