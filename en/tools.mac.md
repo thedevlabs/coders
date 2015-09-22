@@ -7,6 +7,11 @@ Things you will need to code in an web stack
 * [Homebrew](http://brew.sh/) Note: Homebrew will ask you to install Xcode. Go ahead and do this when prompted.
 
 
+### Git Keys
+* [ssh keys](https://confluence.atlassian.com/display/BITBUCKET/Set+up+SSH+for+Git)
+* [ssh keys-github](https://help.github.com/articles/generating-ssh-keys/)
+
+
 ### Mac Workstation
 
 - brew paths
@@ -36,3 +41,11 @@ alias mysqlmamp='/Applications/MAMP/Library/bin/mysql'
 ```
 brew install mysql elasticsearch geoip sqlite ssh-copy-id node redis mongodb
 ```
+
+### Central folder for all dev projects
+Create a folder where all of your repositories will exists.
+
+```
+mkdir /Users/{your username}/dev
+```
+
