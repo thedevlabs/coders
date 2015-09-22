@@ -34,5 +34,5 @@ alias mysqlmamp='/Applications/MAMP/Library/bin/mysql'
 
 
 ```
-brew install * mysql elasticsearch geoip sqlite ssh-copy-id node redis mongodb
+brew install mysql elasticsearch geoip sqlite ssh-copy-id node redis mongodb
 ```
