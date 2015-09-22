@@ -1,7 +1,7 @@
-Coders
+StartUp engineering 
 ======
 
-# Guides for start-up engineering stack setups
+# Guides for start-up engineering stacks
 
 
 ### Platforms
