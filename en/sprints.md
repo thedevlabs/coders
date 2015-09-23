@@ -11,13 +11,13 @@ Sprints should be followed in order as each one builds on what you learned how t
 
 
 ## Sprint 1
-* First commit (bitbucket/github/gitlab)
+* First commit ([bitbucket](https://bitbucket.org)/[Github](https://github.com)/[gitlab](https://gitlab.com))
 * Write, from scratch, a simple webpage using html/css
 
 
 ## Sprint 2
 * Branch the first week repo
-* Rewrite it using BootstrapCSS, use a JS lib too
+* Rewrite it using [BootstrapCSS](http://getbootstrap.com/), use a JS lib too
 * Deploy to a live server (heroku, linux shared)
 
 
@@ -29,9 +29,9 @@ Sprints should be followed in order as each one builds on what you learned how t
 
 ## Sprint 4
 * New Repo: Start a new app platform
- 	* Use Firebase/Parse for database if Front-End
+ 	* Use [Firebase](https://www.firebase.com)/Parse for database if Front-End
  	* Use a DigitalOcean/Linode/AWS server
-* Use [Gulp](https://gulp.com/) or another dev tool compiler
+* Use [Gulp](https://gulpjs.com/) or another dev tool compiler
 
 
 ## Sprint 5
