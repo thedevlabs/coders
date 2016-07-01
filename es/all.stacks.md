@@ -59,7 +59,8 @@ Muy rápido porque solo sale un binario, esta reemplazando REST APIs hechos en p
 * https://github.com/antirez/redis
 
 ####Time Series DB
-* https://github.com/influxdb/influxdb 
+* https://github.com/influxdb/influxdb
+* https://github.com/rethinkdb/rethinkdb 
 
 ####Search
 * https://github.com/elastic/elasticsearch
