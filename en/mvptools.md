@@ -57,5 +57,20 @@ These tools should be used by a developer. THEY should NOT replace a developer, 
 
 
 ### Stack Frameworks
-* 
 
+* See a [full list here](https://github.com/thedevlabs/coders/blob/master/es/all.stacks.md)
+
+##### Javascript
+ * https://github.com/nodejs/node
+ * https://github.com/strongloop/express
+ * http://mean.io/
+
+##### PHP
+ * https://github.com/laravel/laravel  (Laravel || Lumen)
+
+##### Ruby
+* https://github.com/rails/rails
+
+##### Python
+* https://github.com/mitsuhiko/flask
+* https://github.com/django/django
