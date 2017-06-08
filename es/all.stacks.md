@@ -4,8 +4,7 @@ Stacks for startup engineering
 ## Backend
 
 ### Javascript
- * https://github.com/joyent/node  (bueno para desarrollo, pero muchos se estan moviendo a Go)
- * https://github.com/meteor/meteor  (como rails para JS)
+ * https://github.com/nodejs/node  (bueno para desarrollo, pero muchos se estan moviendo a Go)
  * https://github.com/strongloop/express (para nodejs)
  * http://mean.io/  
 
@@ -67,7 +66,6 @@ Muy rápido porque solo sale un binario, esta reemplazando REST APIs hechos en p
 
 #### Cloud
 * https://firebase.com/ 
-* https://parse.com/
 
 #### Big Data
 * https://aws.amazon.com/redshift
